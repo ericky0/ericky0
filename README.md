@@ -3,12 +3,12 @@
 - 🔭 Hoje trabalho desenvolvendo no back-end como também no front-end
 - 🌱 Estou estudando todos os dias sobre ReactJs e NodeJs
 - 📫 How to reach me: me chama no instagram -> @erickvsky
-- ⚡ Fun fact: Meu hobby é jogar, atualmente estou entre valorant e apex :D
+- ⚡ Fun fact: Gosto muito de jogos FPS
 
 <div>
   <a href="https://github.com/ericky0">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=ericky0&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ericky0&layout=compact&langs_count=7&theme=dracula"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=ericky0&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ericky0&layout=compact&langs_count=7&theme=radical"/>
 </div>
   
 <div style="display: inline_block"><br>
