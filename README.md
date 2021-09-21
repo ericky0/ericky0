@@ -3,7 +3,6 @@
 - 🔭 Hoje trabalho desenvolvendo no back-end como também no front-end
 - 🌱 Estou estudando todos os dias sobre ReactJs e NodeJs
 - 📫 How to reach me: me chama no instagram -> @erickvsky
-- 😄 Pronouns: ele / dele
 - ⚡ Fun fact: Meu hobby é jogar, atualmente estou entre valorant e apex :D
 
 <div>
