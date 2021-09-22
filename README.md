@@ -3,7 +3,7 @@
 - 🔭 Hoje trabalho desenvolvendo back-end e front-end
 - 🌱 Estou estudando todos os dias sobre ReactJs e NodeJs
 - 📫 How to reach me: me chama no instagram -> @erickvsky
-- ⚡ Fun fact: amo jogos FPS desde os meus 5 anos
+- ⚡ Fun fact: amo jogos FPS desde muito novo
 
 <div>
   <a href="https://github.com/ericky0">
