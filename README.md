@@ -1,7 +1,7 @@
 ### Olá, eu sou o Erick Hogarth 👋
 
-- 🌱 Estou estudando todos os dias sobre ReactJs e NodeJs
-- 📫 How to reach me: me chama no instagram -> @erickvsky
+- 🌱 Node & ReactJS 💖
+- 📫 How to reach me: erickkhogarth@gmail.com
 - ⚡ Fun fact: amo jogos FPS desde muito novo
 
 <div>
