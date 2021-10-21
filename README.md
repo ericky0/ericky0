@@ -2,7 +2,7 @@
 
 - 🌱 Node & ReactJS 💖
 - 📫 How to reach me: erickkhogarth@gmail.com
-- ⚡ Fun fact: amo jogos FPS desde muito novo
+- ⚡ Fun fact: FPS <3
 
 <div>
   <a href="https://github.com/ericky0">
