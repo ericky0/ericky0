@@ -1,4 +1,4 @@
-### Olá, eu sou o Erick Hogarth 👋
+### Oi, meu nome é Erick Hogarth 👋
 
 - 🌱 Node & ReactJS 💖
 - 📫 How to reach me: erickkhogarth@gmail.com
