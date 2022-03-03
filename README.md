@@ -1,8 +1,8 @@
-### Oi, meu nome é Erick Hogarth 👋
+### Hi, my name is Erick Hogarth 👋
 
 - 🌱 Node & ReactJS 💖
 - 📫 How to reach me: erickkhogarth@gmail.com
-- ⚡ Fun fact: FPS <3
+- ⚡ Fun fact: radiant in valorant | global elite in cs:go
 
 <div>
   <a href="https://github.com/ericky0">
