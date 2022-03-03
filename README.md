@@ -1,4 +1,4 @@
-### Hi, my name is Erick Hogarth 👋
+### Hi 👋, my name is Erick Hogarth 
 
 - 🌱 Node & ReactJS 💖
 - 📫 How to reach me: erickkhogarth@gmail.com
