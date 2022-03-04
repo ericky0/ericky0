@@ -1,6 +1,6 @@
 ### Hi 👋, my name is Erick Hogarth 
 
-- 🌱 Node & ReactJS 💖
+- 💻 Node & ReactJS 💖
 - 📫 How to reach me: erickkhogarth@gmail.com
 - ⚡ Fun fact: radiant in valorant | global elite in cs:go
 
