@@ -1,6 +1,6 @@
 <h1 align="center"> Hi, i'm Erick Hogarth <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35px"> </h1>
 
-- 💻 ReactJs & NodeJS Developer (focusing on Node)
+- 💻 ReactJs & NodeJS Developer
 - 📫 How to reach me: erickkhogarth@gmail.com
 - ⚡ Fun fact: radiant in valorant | global elite in cs:go
 
