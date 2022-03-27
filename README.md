@@ -2,7 +2,8 @@
 
 - 💻 ReactJs & NodeJS Developer
 - 📫 How to reach me: erickkhogarth@gmail.com
-- ⚡ Fun fact: radiant in valorant | global elite in cs:go
+- ⚡ Fun fact: radiant in valorant && global elite in CS:GO and very bad in league of legends
+
 
 <div>
   <a href="https://github.com/ericky0">
