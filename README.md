@@ -1,12 +1,12 @@
 <h1 align="center"> Hi, i'm Erick Hogarth <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35px"> </h1>
 
-- 💻 React & Node developer
+- 💻 I am passionate about development since i was 15y 
+- 📚 Currently learning more and more every day about React, Node.js and TypeScript
+- 🎮 I love video games since i was 5, i've even been a professional in CS:GO and Radiant in Valorant
 
-
-<div>
+<div align="center">
   <a href="https://github.com/ericky0">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=ericky0&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ericky0&layout=compact&langs_count=7&theme=radical"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ericky0&layout=compact&langs_count=100&theme=swift"/>
 </div>
   
 <div style="display: inline_block"><br>
