@@ -1,4 +1,4 @@
-<h1 align="center"> Hi, i'm Erick Hogarth <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35px"> </h1>
+<h1 align="center"> Hi, i'm Erick Hogarth <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35px" height="35px"> </h1>
 
 - 💻 I am passionate about development since i was 15y 
 - 📚 Currently learning more and more every day about React, Node.js and TypeScript
