@@ -2,7 +2,7 @@
 
 - 🖥 <a href="https://erickhogarth.netlify.app" target="_blank"> My Portfolio </a>
 - 💻 I am passionate about development since i was 15y 
-- 📚 Currently learning more and more every day about React, Node.js and TypeScript
+- 📚 Currently learning more and more every day about React, Next, Node.js and TypeScript
 - 🎮 I love video games since i was 5, i've even been a professional in CS:GO and Radiant in Valorant
 
 <div align="center">
