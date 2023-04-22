@@ -1,9 +1,16 @@
-<h1 align="center"> Hi, i'm Erick Hogarth <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35px" height="35px"> </h1>
+![erickbaner](https://user-images.githubusercontent.com/53923000/233799214-2b53a36c-0257-4b50-a9f2-84b00f7080f3.jpg)
+
+
+
+
+
+<h2> <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="20px" height="20px" /> Hi!  </h2>
 
 - 🖥 <a href="https://erickhogarth.netlify.app" target="_blank"> My Portfolio </a>
-- 💻 I am passionate about development since i was 15y 
-- 📚 Currently learning more and more every day about React, Next, Node.js and TypeScript
-- 🎮 I love video games since i was 5, i've even been a professional in CS:GO and Radiant in Valorant
+- 💻 I'm passionate about development since i was 15y
+- 📚 I currently work with Next.js, React, Node.js
+- 📕 I'm studying systems analysis and development 1/4
+- 🎮 I love FPS since i was 5, i've even been a professional in CS:GO and Radiant in Valorant
 
 <div align="center">
   <a href="https://github.com/ericky0">
