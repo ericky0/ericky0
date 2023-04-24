@@ -9,7 +9,7 @@
 - 🖥 <a href="https://erickhogarth.netlify.app" target="_blank"> My Portfolio </a>
 - 💻 I'm passionate about development since i was 15y
 - 📚 I currently work with Next.js, React, Node.js
-- 📕 I'm studying systems analysis and development 1/4
+- 📕 I'm in the faculty of systems analysis and development
 - 🎮 I love FPS since i was 5, i've even been a professional in CS:GO and Radiant in Valorant
 
 <div align="center">
