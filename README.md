@@ -6,7 +6,7 @@
 
 <h2> <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="20px" height="20px" /> Hi!  </h2>
 
-- 🖥 <a href="https://erickhogarth.netlify.app" target="_blank"> My Portfolio </a>
+- 🖥 <a href="https://erick-hogarth.vercel.app/" target="_blank"> My Portfolio </a>
 - 💻 I'm passionate about development since i was 15y
 - 📚 I currently work with Next.js, React, Node.js
 - 📕 I'm in the faculty of systems analysis and development
