@@ -8,8 +8,8 @@
 
 - 🖥 <a href="https://erick-hogarth.vercel.app/" target="_blank"> My Portfolio </a>
 - 💻 I'm passionate about development since i was 15y
-- 📚 I currently work with Next.js, React, Node.js
-- 📕 I'm in the faculty of systems analysis and development
+- 📚 I currently work with NextJS, AdonisJS, React and NodeJs
+- 📕 I'm in the university of Systems Analysis and Development
 - 🎮 I love FPS since i was 5, i've even been a professional in CS:GO and Radiant in Valorant
 
 <div align="center">
