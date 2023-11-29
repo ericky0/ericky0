@@ -10,7 +10,7 @@
 - 💻 I'm passionate about development since i was 15y
 - 📚 I currently work with NextJS, AdonisJS, React and NodeJs
 - 📕 I'm in the university of Systems Analysis and Development
-- 🎮 I love FPS since i was 5, i've even been a professional in CS:GO and Radiant in Valorant
+- 🎮 I love FPS since i was 5, i've even been Global Elite in CS:GO and Radiant in Valorant
 
 <div align="center">
   <a href="https://github.com/ericky0">
