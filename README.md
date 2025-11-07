@@ -6,10 +6,8 @@
 
 <h2> <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="20px" height="20px" /> Hi!  </h2>
 
-- 🖥 <a href="https://erick-hogarth.vercel.app/" target="_blank"> My Portfolio </a>
 - 💻 I'm passionate about development since i was 15y
-- 📚 I currently work with NodeJS, React, NextJS, AdonisJS and a bit of C#
-- 📕 I'm in the university of Systems Analysis and Development
+- 📚 I currently work with NodeJS, React, NextJS, AdonisJS, C#
 
 <div align="center">
   <a href="https://github.com/ericky0">
