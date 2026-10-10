@@ -1,37 +1,24 @@
-![erickbaner](https://user-images.githubusercontent.com/53923000/233799214-2b53a36c-0257-4b50-a9f2-84b00f7080f3.jpg)
+<p align="center">
+  <img src="assets/banner.gif" alt="erick hogarth" width="100%" />
+</p>
 
+<h3 align="center">i build the whole thing.</h3>
 
+<p align="center">
+  the interface you click · the api behind it · the database under it<br/>
+  the cloud it runs on · the ai agents that help ship it
+</p>
 
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=ts,react,nextjs,tailwind,vite,nodejs,adonis,cs,dotnet,mysql,postgres,redis,mongodb,prisma,aws,docker,githubactions,linux&theme=dark" />
+  <br/><br/>
+  <img src="https://img.shields.io/badge/claude-0d0d12?style=for-the-badge&logo=claude&logoColor=f06234" /> <img src="https://img.shields.io/badge/mcp-0d0d12?style=for-the-badge&logo=modelcontextprotocol&logoColor=d6ccfa" /> <img src="https://img.shields.io/badge/multi--agent-0d0d12?style=for-the-badge&logo=anthropic&logoColor=6b5bd6" />
+</p>
 
+<p align="center"><i>best commits happen after the sun goes dark.</i></p>
 
-<h2> <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="20px" height="20px" /> Hi!  </h2>
-
-- 💻 I'm passionate about development since i was 15y
-- 📚 I currently work with NodeJS, React, NextJS, AdonisJS, C#
-
-<div align="center">
-  <a href="https://github.com/ericky0">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ericky0&layout=compact&langs_count=100&theme=swift"/>
-</div>
-  
-<div style="display: inline_block"><br>
-  <img align="center" alt="Erick-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="Erick-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="center" alt="Erick-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img align="center" alt="Erick-Ts" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
-  <img align="center" alt="Erick-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
-  <img align="center" alt="Erick-NextJs" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" />
-  <img align="center" alt="Erick-NodeJs" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg">
-  <img align="center" alt="Erick-AdonisJs" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/adonisjs/adonisjs-original.svg">
-  <img align="center" alt="Erick-Postgres" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" />
-  <img align="center" alt="Erick-Mongo" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" />
-  <img align="center" alt="Erick-Firebase" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" />
-  <img align="center" alt="Erick-Git" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
-</div>
-
-##
-  <div>
-    <a href="https://www.twitch.tv/askzin11" target="_blank"><img src="https://img.shields.io/badge/Twitch-9146FF?style=for-the-badge&logo=twitch&logoColor=white" target="_blank"></a>
-    <a href = "mailto:erickkhogarth@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-    <a href="https://www.linkedin.com/in/erick-hogarth-b91978190/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
-  </div>
+<p align="center">
+  <a href="https://www.linkedin.com/in/erick-hogarth-b91978190/"><img src="https://img.shields.io/badge/linkedin-0d0d12?style=for-the-badge&logo=linkedin&logoColor=6b5bd6" /></a>
+  <a href="mailto:erickkhogarth@gmail.com"><img src="https://img.shields.io/badge/gmail-0d0d12?style=for-the-badge&logo=gmail&logoColor=f06234" /></a>
+  <a href="https://www.twitch.tv/askzin11"><img src="https://img.shields.io/badge/twitch-0d0d12?style=for-the-badge&logo=twitch&logoColor=d6ccfa" /></a>
+</p>
