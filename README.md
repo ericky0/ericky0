@@ -10,9 +10,9 @@
 </p>
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=ts,react,nextjs,tailwind,vite,nodejs,adonis,cs,dotnet,mysql,postgres,redis,mongodb,prisma,aws,docker,githubactions,linux&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=ts,py,php,cs,react,nextjs,tailwind,vite,nodejs,express,adonis,dotnet,mysql,postgres,redis,mongodb,aws,gcp,cloudflare,docker,githubactions,linux,vitest&perline=12&theme=dark" />
   <br/><br/>
-  <img src="https://img.shields.io/badge/claude-0d0d12?style=for-the-badge&logo=claude&logoColor=f06234" /> <img src="https://img.shields.io/badge/mcp-0d0d12?style=for-the-badge&logo=modelcontextprotocol&logoColor=d6ccfa" /> <img src="https://img.shields.io/badge/multi--agent-0d0d12?style=for-the-badge&logo=anthropic&logoColor=6b5bd6" />
+  <img src="https://img.shields.io/badge/claude-0d0d12?style=for-the-badge&logo=claude&logoColor=f06234" /> <img src="https://img.shields.io/badge/mcp-0d0d12?style=for-the-badge&logo=modelcontextprotocol&logoColor=d6ccfa" /> <img src="https://img.shields.io/badge/aws_bedrock-0d0d12?style=for-the-badge&logoColor=f06234" /> <img src="https://img.shields.io/badge/multi--agent-0d0d12?style=for-the-badge&logo=anthropic&logoColor=6b5bd6" /> <img src="https://img.shields.io/badge/pulumi-0d0d12?style=for-the-badge&logo=pulumi&logoColor=d6ccfa" />
 </p>
 
 <p align="center"><i>best commits happen after the sun goes dark.</i></p>
